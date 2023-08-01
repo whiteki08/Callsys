@@ -1,11 +1,14 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+component/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
-
+config.ini
+logintime.txt
+test.py
 # Distribution / packaging
 .Python
 build/
